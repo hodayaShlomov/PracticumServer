@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "b2mCb9txxNub709uJ/jYvMtvfmy39nayp002KmG/iG1NSLS0FW5T6kYGC49RilXLhRNceNyakJUyIu9AuTmsdg==",
+  "dgSpecHash": "HzFbF8gF8fCo/etTMpZNYyylIeIXw/+u3lJFhHJyV/ytUzQsgmMTx1a+KzWxhJ0VOO9S3pH/VkkQ81OwcBwC5w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\הודיה\\Desktop\\סופייי\\Practicum-שרת\\Practicum\\Practicum.WebAPI\\Practicum.WebAPI.csproj",
+  "projectFilePath": "C:\\Users\\הודיה\\Desktop\\‏‏תיקיה חדשה (8)\\Practicum-שרת\\Practicum\\Practicum.WebAPI\\Practicum.WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\הודיה\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\הודיה\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",

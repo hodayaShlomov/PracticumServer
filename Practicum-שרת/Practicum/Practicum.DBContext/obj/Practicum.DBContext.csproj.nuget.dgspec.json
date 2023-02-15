@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\הודיה\\Desktop\\סופייי\\Practicum-שרת\\Practicum\\Practicum.DBContext\\Practicum.DBContext.csproj": {}
+    "C:\\Users\\הודיה\\Desktop\\‏‏תיקיה חדשה (8)\\Practicum-שרת\\Practicum\\Practicum.DBContext\\Practicum.DBContext.csproj": {}
   },
   "projects": {
-    "C:\\Users\\הודיה\\Desktop\\סופייי\\Practicum-שרת\\Practicum\\Practicum.DBContext\\Practicum.DBContext.csproj": {
+    "C:\\Users\\הודיה\\Desktop\\‏‏תיקיה חדשה (8)\\Practicum-שרת\\Practicum\\Practicum.DBContext\\Practicum.DBContext.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\הודיה\\Desktop\\סופייי\\Practicum-שרת\\Practicum\\Practicum.DBContext\\Practicum.DBContext.csproj",
+        "projectUniqueName": "C:\\Users\\הודיה\\Desktop\\‏‏תיקיה חדשה (8)\\Practicum-שרת\\Practicum\\Practicum.DBContext\\Practicum.DBContext.csproj",
         "projectName": "Practicum.DBContext",
-        "projectPath": "C:\\Users\\הודיה\\Desktop\\סופייי\\Practicum-שרת\\Practicum\\Practicum.DBContext\\Practicum.DBContext.csproj",
+        "projectPath": "C:\\Users\\הודיה\\Desktop\\‏‏תיקיה חדשה (8)\\Practicum-שרת\\Practicum\\Practicum.DBContext\\Practicum.DBContext.csproj",
         "packagesPath": "C:\\Users\\הודיה\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\הודיה\\Desktop\\סופייי\\Practicum-שרת\\Practicum\\Practicum.DBContext\\obj\\",
+        "outputPath": "C:\\Users\\הודיה\\Desktop\\‏‏תיקיה חדשה (8)\\Practicum-שרת\\Practicum\\Practicum.DBContext\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -34,8 +34,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\הודיה\\Desktop\\סופייי\\Practicum-שרת\\Practicum\\Practicum.Repository\\Practicum.Repository.csproj": {
-                "projectPath": "C:\\Users\\הודיה\\Desktop\\סופייי\\Practicum-שרת\\Practicum\\Practicum.Repository\\Practicum.Repository.csproj"
+              "C:\\Users\\הודיה\\Desktop\\‏‏תיקיה חדשה (8)\\Practicum-שרת\\Practicum\\Practicum.Repository\\Practicum.Repository.csproj": {
+                "projectPath": "C:\\Users\\הודיה\\Desktop\\‏‏תיקיה חדשה (8)\\Practicum-שרת\\Practicum\\Practicum.Repository\\Practicum.Repository.csproj"
               }
             }
           }
@@ -95,14 +95,14 @@
         }
       }
     },
-    "C:\\Users\\הודיה\\Desktop\\סופייי\\Practicum-שרת\\Practicum\\Practicum.Repository\\Practicum.Repository.csproj": {
+    "C:\\Users\\הודיה\\Desktop\\‏‏תיקיה חדשה (8)\\Practicum-שרת\\Practicum\\Practicum.Repository\\Practicum.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\הודיה\\Desktop\\סופייי\\Practicum-שרת\\Practicum\\Practicum.Repository\\Practicum.Repository.csproj",
+        "projectUniqueName": "C:\\Users\\הודיה\\Desktop\\‏‏תיקיה חדשה (8)\\Practicum-שרת\\Practicum\\Practicum.Repository\\Practicum.Repository.csproj",
         "projectName": "Practicum.Repository",
-        "projectPath": "C:\\Users\\הודיה\\Desktop\\סופייי\\Practicum-שרת\\Practicum\\Practicum.Repository\\Practicum.Repository.csproj",
+        "projectPath": "C:\\Users\\הודיה\\Desktop\\‏‏תיקיה חדשה (8)\\Practicum-שרת\\Practicum\\Practicum.Repository\\Practicum.Repository.csproj",
         "packagesPath": "C:\\Users\\הודיה\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\הודיה\\Desktop\\סופייי\\Practicum-שרת\\Practicum\\Practicum.Repository\\obj\\",
+        "outputPath": "C:\\Users\\הודיה\\Desktop\\‏‏תיקיה חדשה (8)\\Practicum-שרת\\Practicum\\Practicum.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

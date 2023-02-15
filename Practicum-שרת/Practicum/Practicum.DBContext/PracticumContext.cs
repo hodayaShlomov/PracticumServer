@@ -16,7 +16,7 @@ namespace Practicum.DBContext
         {
 
         }
-        //
+        
         public PracticumContext(DbContextOptions options)
            : base(options)
         {

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "M+hJum31zikyj33V4dm0o5bnGo8Wq9yrNbNZQHZdM96lUFqZtoOAsfi/x/RC+6sJHsEZqFq8f3pEFXzPdVBzIA==",
+  "dgSpecHash": "JcdkH3VXiJ4re0sFheBMKKwxCLoMDJV93J31xuRMS5Fw34iov0+PClwMQBcidEQmOzBWCpzfs5XWufjFdsL9AQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\הודיה\\Desktop\\סופייי\\Practicum-שרת\\Practicum\\Practicum.Repository\\Practicum.Repository.csproj",
+  "projectFilePath": "C:\\Users\\הודיה\\Desktop\\‏‏תיקיה חדשה (8)\\Practicum-שרת\\Practicum\\Practicum.Repository\\Practicum.Repository.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\הודיה\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\הודיה\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

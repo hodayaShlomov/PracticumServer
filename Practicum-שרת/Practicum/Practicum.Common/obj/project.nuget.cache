@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jg8Hdmdq6EeXfCK/7tmhgFuxiKaFuEJPNbGyRFaZQtysj+q6U8N5VhAYYpuhZpfMUkcomWbfbT3HhQT+szB87Q==",
+  "dgSpecHash": "v7KZYIZlsMC6HAfG0Gpom1efXRV7tLu4pnfMmcWoO1/iH/kyl3dly2CciOhIsJ73zi6hmsAEyhUP8BMww9cJUg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\הודיה\\Desktop\\סופייי\\Practicum-שרת\\Practicum\\Practicum.Common\\Practicum.Common.csproj",
+  "projectFilePath": "C:\\Users\\הודיה\\Desktop\\‏‏תיקיה חדשה (8)\\Practicum-שרת\\Practicum\\Practicum.Common\\Practicum.Common.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\הודיה\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
     "C:\\Users\\הודיה\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
